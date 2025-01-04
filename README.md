@@ -1,2 +1,2 @@
 # weargo
-for weasr os and android
+for wear os and android
